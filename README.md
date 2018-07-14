@@ -1,4 +1,4 @@
-# NodeJs-Master-Assignment1
+# Assignment 1
 
 It's a simple RESTful API Node.js application with single rout '/hello'. 
 
